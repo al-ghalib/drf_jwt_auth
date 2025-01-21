@@ -1,0 +1,3 @@
+EMAIL_USER = "my-mail@gmail.com"
+EMAIL_PASS = "my-pass"
+EMAIL_TO = "Rcvr-mail"
